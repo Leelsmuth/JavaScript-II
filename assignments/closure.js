@@ -8,7 +8,7 @@ function totalSum() {
   function displaySum() {
         return (12 + number);
   }
-  return displayName;
+  return displaySum;
 }
 
 var myFunc = totalSum();
